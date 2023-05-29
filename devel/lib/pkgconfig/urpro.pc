@@ -1,0 +1,8 @@
+prefix=/home/thengso/tutorial_ws/devel
+
+Name: urpro
+Description: Description of urpro
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
